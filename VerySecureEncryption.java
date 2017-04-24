@@ -1,13 +1,9 @@
-package com.jasperwireless.globalsim.v2.rest;
-
 import java.util.Arrays;
 
 /**
- * Created by IntelliJ IDEA.
- * User: shreyven
+ * User: shreya v
  * Date: 4/23/17
  * Time: 5:13 PM
- * To change this template, use File | Settings | File Templates.
  */
 public class VerySecureEncryption {
     public String encrypt(String str, int[] key, int k) {
