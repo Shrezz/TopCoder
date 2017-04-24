@@ -1,11 +1,6 @@
-package com.jasperwireless.globalsim.v2.rest;
-
 /**
- * Created by IntelliJ IDEA.
- * User: shreyven
+ * User: shreya v
  * Date: 4/22/17
- * Time: 12:01 PM
- * To change this template, use File | Settings | File Templates.
  */
 public class AccessChanger {
 
