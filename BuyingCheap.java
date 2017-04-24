@@ -1,15 +1,10 @@
-package com.jasperwireless.globalsim.v2.rest;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by IntelliJ IDEA.
- * User: shreyven
+/*
+ * User: shreya v
  * Date: 4/20/17
- * Time: 9:12 PM
- * To change this template, use File | Settings | File Templates.
  */
 
 public class BuyingCheap {
