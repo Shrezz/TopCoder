@@ -1,11 +1,7 @@
-package com.jasperwireless.globalsim.v2.rest;
 
-/**
- * Created by IntelliJ IDEA.
- * User: shreyven
+/*
+ * User: shreya v
  * Date: 4/23/17
- * Time: 5:33 PM
- * To change this template, use File | Settings | File Templates.
  */
 public class RGBStreet {
 
